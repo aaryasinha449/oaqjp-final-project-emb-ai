@@ -1,1 +1,2 @@
-# Repository for final project
+# Final Project
+AI-Based Emotion Detection using Watson NLP.
